@@ -1,3 +1,3 @@
 # lab-flutter-han
 
-Still working on Visual Studio Installation for Flutter
+Lab 6 is on branch master
