@@ -247,8 +247,8 @@ class _MyFormPageState extends State<MyFormPage> {
                                                     // TODO: Munculkan informasi yang didapat dari form
                                                     Text(
                                                         'Nama Lengkap: $_namaLengkap\n' 
-                                                        'Umur: ${umur.round()}\n'
                                                         'Kelas PBP: $kelasPBP\n'
+                                                        'Umur: ${umur.round()}\n'
                                                         'Jenjang: ${jenjangSarjana ? 'Sarjana' : jenjangDiploma ? 'Diploma' : jenjangMagister ? 'Magister' : 'Doktor'}\n'
                                                         'Practice Mode: ${_nilaiSwitch ? 'Aktif' : 'Tidak Aktif'}',
                                                         textAlign: TextAlign.center,
