@@ -1,3 +1,3 @@
 # lab-flutter-han
 
-Lab 6 is on branch master
+Lab 6, 7, 8 is on branch master
